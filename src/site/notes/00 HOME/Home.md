@@ -1,5 +1,5 @@
 ---
-{"dg-home":true,"dg-publish":true,"title":"Home","Author":"Daven Earl Bellen","tags":["gardenEntry"],"permalink":"/00-home/home/","dgPassFrontmatter":true,"created":"2025-05-05T20:27:38.000+08:00","updated":"2025-05-06T12:50:44.183+08:00"}
+{"dg-home":true,"dg-publish":true,"title":"00 Home","Author":"Daven Earl Bellen","tags":["gardenEntry"],"permalink":"/00-home/home/","dgPassFrontmatter":true,"created":"2025-05-05T20:27:38.000+08:00","updated":"2025-05-06T12:52:50.368+08:00"}
 ---
 
 # Home
