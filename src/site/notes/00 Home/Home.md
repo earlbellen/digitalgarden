@@ -1,5 +1,5 @@
 ---
-{"dg-home":true,"dg-publish":true,"title":"Home","Author":"Daven Earl Bellen","tags":["gardenEntry"],"permalink":"/00-home/home/","dgPassFrontmatter":true,"created":"2025-05-05T13:59:18.505+08:00","updated":"2025-05-12T20:03:27.123+08:00"}
+{"dg-home":true,"dg-publish":true,"title":"Home","Author":"Daven Earl Bellen","tags":["publicnotes","gardenEntry"],"date":"2025-05-12","permalink":"/00-home/home/","dgPassFrontmatter":true,"created":"2025-05-05T13:59:18.505+08:00","updated":"2025-05-12T21:13:44.147+08:00"}
 ---
 
 ## Welcome to My Public Notes
