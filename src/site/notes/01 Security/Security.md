@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-security/security/","tags":["#cybersecurity"]}
+{"dg-publish":true,"permalink":"/01-security/security/","tags":["cybersecurity"]}
 ---
 
 - Business management tool that ensures reliability and protection of IT/IS.
