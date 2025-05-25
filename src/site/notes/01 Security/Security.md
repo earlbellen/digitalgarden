@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-security/security/","title":"Security","tags":["#cybersecurity"]}
+{"dg-publish":true,"permalink":"/01-security/security/","tags":["#cybersecurity"]}
 ---
 
 # Security
