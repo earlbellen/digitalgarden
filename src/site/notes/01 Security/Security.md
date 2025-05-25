@@ -14,8 +14,8 @@
 	- Penetration testing uses trusted teams to stress-test the security infrastructure to find issues that may not be discovered by the prior two means and to find those concerns before an adversary takes advantage of them
 
 ## 5 Pillars of Information Security
-### [[CIA Triad\|CIA Triad]]
-The CIA Triad are often perceived as the primary goals and objectives of a security infrastructure.
+### CIA Triad
+The [[CIA Triad\|CIA Triad]] are often perceived as the primary goals and objectives of a security infrastructure.
 1.  [[Confidentiality\|Confidentiality]]
 2.  [[Integrity\|Integrity]]
 3.  [[Availability\|Availability]]
