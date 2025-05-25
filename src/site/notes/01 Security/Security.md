@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/01-security/security/","tags":["cybersecurity"]}
 ---
 
+## What is Security?
 - Business management tool that ensures reliability and protection of IT/IS.
 - Exists to support the organization's objectives, mission, and goals. Thus, it is an element of business management rather than only an IT concern.
 
